@@ -1,2 +1,6 @@
-num=int(input("Enter the value of num:"))
-print("The value of num is :",num)
+name=str(input("Enter your name:"))
+num=int(input("Enter your rollno:"))
+marks=float(input("Enter Your marks:"))
+print("Your name is :",name)
+print("Your roll_no: :",num)
+print("Your marks is :",marks)
